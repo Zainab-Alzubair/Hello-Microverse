@@ -19,3 +19,5 @@ bin-release/
 
 # .gitignore
 node_modules/
+# .gitignore
+test.md/
